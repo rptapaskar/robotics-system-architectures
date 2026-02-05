@@ -34,4 +34,39 @@ The content is **tool-agnostic** and applicable to industrial robots, mobile rob
 ---
 
 ## Repository Structure
+- architectures/ High-level system architectures and design narratives
+- pipelines/ Control, data, and decision pipelines
+- case-studies/ Applied examples from research and teaching contexts
+- docs/ Supporting notes and research positioning
+
+
+---
+
+## Intended Audience
+
+- Robotics researchers and PhD scholars  
+- Graduate students working on system-level robotics problems  
+- Educators designing robotics laboratories and curricula  
+- Engineers transitioning research concepts into deployable systems  
+
+---
+
+## Design Philosophy
+
+- Systems first, algorithms second  
+- Explicit abstraction boundaries  
+- Replaceability of components  
+- Observability and diagnosability as design requirements  
+
+---
+
+## Notes
+
+This repository is **evolving by design**.  
+Content is added incrementally to maintain clarity and research integrity.
+
+---
+
+> Strong robotic systems are built on sound architectures, not isolated code artifacts.
+
 
